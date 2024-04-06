@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\bin\Debug\net6.0\Polimorphism-Learn in lesson.exe
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\bin\Debug\net6.0\Polimorphism-Learn in lesson.deps.json
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\bin\Debug\net6.0\Polimorphism-Learn in lesson.runtimeconfig.json
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\bin\Debug\net6.0\Polimorphism-Learn in lesson.dll
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\bin\Debug\net6.0\Polimorphism-Learn in lesson.pdb
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.AssemblyInfo.cs
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.dll
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\refint\Polimorphism-Learn in lesson.dll
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.pdb
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\Polimorphism-Learn in lesson.genruntimeconfig.cache
+C:\Users\99455\source\repos\Polimorphism-Learn in lesson\Polimorphism-Learn in lesson\obj\Debug\net6.0\ref\Polimorphism-Learn in lesson.dll

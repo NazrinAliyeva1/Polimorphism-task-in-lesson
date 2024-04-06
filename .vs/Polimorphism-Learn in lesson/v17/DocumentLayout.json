@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\models\\iarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\models\\iarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\models\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\models\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\interfaces\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\interfaces\\idifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|c:\\users\\99455\\source\\repos\\polimorphism-learn in lesson\\polimorphism-learn in lesson\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A660A345-ED2E-4D1D-A27D-1CDFDBF28FB7}|Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson.csproj|solutionrelative:polimorphism-learn in lesson\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMultiply.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IMultiply.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Interfaces\\IMultiply.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IMultiply.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Interfaces\\IMultiply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:29:35.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDivide.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IDivide.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Interfaces\\IDivide.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IDivide.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Interfaces\\IDivide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:29:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDifference.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IDifference.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Interfaces\\IDifference.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IDifference.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Interfaces\\IDifference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:28:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IAdd.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Interfaces\\IAdd.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Interfaces\\IAdd.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Interfaces\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:28:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArea.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Models\\IArea.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Models\\IArea.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Models\\IArea.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Models\\IArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:26:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Models\\Calculate.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Models\\Calculate.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Models\\Calculate.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Models\\Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:28:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorphism-Learn in lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Polimorphism-Learn in lesson\\Polimorphism-Learn in lesson\\Program.cs",
+              "RelativeToolTip": "Polimorphism-Learn in lesson\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:25:27.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
